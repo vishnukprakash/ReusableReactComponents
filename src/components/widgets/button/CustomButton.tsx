@@ -1,4 +1,5 @@
 import *  as React from 'react';
+import './CustomButton.css';
 
 export class CustomButton extends React.Component<any, any>{
     public render(){
