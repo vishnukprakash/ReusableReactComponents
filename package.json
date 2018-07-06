@@ -1,15 +1,10 @@
 {
-  "name": "@vishnukprakash/reusablereactcomponents",
+  "name": "reusablereactcomponents-test",
   "version": "0.1.0",
   "private": false,
   "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
   "dependencies": {},
-  "scripts": {
-    "start": "react-scripts-ts start",
-    "build": "react-scripts-ts build",
-    "test": "react-scripts-ts test --env=jsdom",
-    "eject": "react-scripts-ts eject"
-  },
   "devDependencies": {
     "@types/jest": "^23.1.4",
     "@types/node": "^10.5.1",

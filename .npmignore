@@ -8,3 +8,4 @@ tsconfig.test.json
 tslint.json
 .gitignore
 .npmignore
+images.d.ts
