@@ -1,6 +1,6 @@
 {
   "name": "@vishnukprakash/reusablereactcomponents",
-  "version": "0.1.2",
+  "version": "0.1.0",
   "private": false,
   "main": "./lib/index.js",
   "dependencies": {},
