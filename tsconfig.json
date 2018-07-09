@@ -6,6 +6,7 @@
     "lib": ["es6", "dom"],
     "sourceMap": true,
     "jsx": "react",
+    "allowJs": false,
     "moduleResolution": "node",
     "rootDir": "src",
     "declaration": true,

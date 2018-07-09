@@ -1,3 +1,3 @@
-This is a test project
+#Component library for react in typescript 
 
-Will be removed soon
+This is a sample project which depicts how to create a component library for react in typescript.
