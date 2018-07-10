@@ -1,10 +1,10 @@
 import { Person } from "./Person";
 
 export class PersonImpl implements Person {
-     getId(): number {
+    public  getId(): number {
         throw new Error("Method not implemented.");
     }
-    getName(): string {
+    public getName(): string {
         throw new Error("Method not implemented.");
     }
 }

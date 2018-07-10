@@ -1,10 +1,14 @@
 import { Organisation } from "./Organisation";
 
 export class OrganisationImpl implements Organisation {
-    getId(): number {
-        throw new Error("Method not implemented.");
+ 
+    constructor(private id:number, private name:string){
     }
-    getName(): string {
-        throw new Error("Method not implemented.");
+
+    public getId(): number {
+        return this.id;
+    }
+    public getName(): string {
+        return this.name; 
     }
 }
